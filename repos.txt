@@ -1,1 +1,1 @@
-termux/termux-app|universal
+KernelSU-Next/KernelSU-Next|KernelSU_Next
